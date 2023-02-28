@@ -28,13 +28,13 @@ sudo dpkg -i typora_1.0.3_amd64.deb
 - 安装Python3、python3-pip
 
   ```sh
-  sudo apt install python3 python3-pip
+  sudo dnf install python3 python3-pip
   ```
 
 - 安装 nodejs
 
   ```shell
-  sudo apt-get install nodejs
+  sudo dnf install nodejs
 
 - 克隆typoraCracker项目
 
